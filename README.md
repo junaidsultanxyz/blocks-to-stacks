@@ -2,7 +2,7 @@
 
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.11-brightgreen)
 ![Mod Loader](https://img.shields.io/badge/Fabric-0.18.2+-orange)
-![License](https://img.shields.io/badge/License-MIT-blue)
+![License](https://img.shields.io/badge/License-CC0-1.0-blue)
 
 **Blocks to Stacks** is a lightweight, client-side utility mod for Minecraft that handles block math directly in-game. It eliminates the need to tab out to a calculator when planning large builds or organizing storage rooms by instantly converting raw block counts into manageable Minecraft stacks.
 
@@ -42,4 +42,4 @@ To compile this project yourself, you will need **Java 21** (or higher) installe
 3. Retrieve the compiled mod from `build/libs/`.
 
 ## 📄 License
-This project is dedicated to the public domain under the MIT License License. You are free to use, modify, and distribute this code without restriction.
+This project is dedicated to the public domain under the CC0-1.0 License. You are free to use, modify, and distribute this code without restriction.

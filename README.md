@@ -21,7 +21,7 @@ Because the command logic and math are processed locally and printed strictly to
 
 ## 📥 Installation (For Players)
 
-1. Download the latest `.jar` file from [Modrinth](https://modrinth.com/mod/blocks-to-stacks) *(Update link once published)*.
+1. Download the latest `.jar` file from [Modrinth](https://modrinth.com/mod/blocks-to-stacks)
 2. Ensure you have the [Fabric Loader](https://fabricmc.net/) installed for Minecraft 1.21.11.
 3. Place the downloaded `.jar` and the required [Fabric API](https://modrinth.com/mod/fabric-api) into your `.minecraft/mods` folder.
 4. Launch the game!

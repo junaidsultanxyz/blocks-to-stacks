@@ -2,7 +2,7 @@
 
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.11-brightgreen)
 ![Mod Loader](https://img.shields.io/badge/Fabric-0.18.2+-orange)
-![License](https://img.shields.io/badge/License-CC0-1.0-blue)
+![License](https://img.shields.io/badge/License-CC0_1.0-blue)
 
 **Blocks to Stacks** is a lightweight, client-side utility mod for Minecraft that handles block math directly in-game. It eliminates the need to tab out to a calculator when planning large builds or organizing storage rooms by instantly converting raw block counts into manageable Minecraft stacks.
 

@@ -3,12 +3,13 @@
 	"id": "blockstostacks",
 	"version": "${version}",
 	"name": "Blocks to Stacks",
-	"description": "Calculates number of stacks and remaining items from a given number using in game command",
+	"description": "Client-side chat command that turns a block count into stacks, leftovers and the storage needed to hold them.",
 	"authors": [
 		"Junaid Sultan"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
+		"homepage": "https://modrinth.com/mod/blocks-to-stacks",
+		"issues": "https://github.com/junaidsultanxyz/blocks-to-stacks/issues",
 		"sources": "https://github.com/junaidsultanxyz/blocks-to-stacks"
 	},
 	"license": "CC0-1.0",
@@ -16,13 +17,13 @@
 	"environment": "client",
 	"entrypoints": {
 		"client": [
-			"com.junaidsultan.ClientApplication"
+			"com.junaidsultan.blockstostacks.BlocksToStacksClient"
 		]
 	},
 	"depends": {
-		"fabricloader": ">=0.18.2",
-		"minecraft": "~1.21.11",
-		"java": ">=21",
+		"fabricloader": "${loader_dependency}",
+		"minecraft": "${minecraft_dependency}",
+		"java": ">=${java_version}",
 		"fabric-api": "*"
 	}
 }

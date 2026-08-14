@@ -70,8 +70,7 @@ src/client/java/com/junaidsultan/blockstostacks/
 ```
 
 Every version number lives in `gradle.properties` and is templated into
-`fabric.mod.json` at build time. See [PORTING.md](PORTING.md) for the checklist
-when a new Minecraft version lands.
+`fabric.mod.json` at build time.
 
 ## 📄 License
 

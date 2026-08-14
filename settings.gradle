@@ -8,3 +8,11 @@ pluginManagement {
 		gradlePluginPortal()
 	}
 }
+
+plugins {
+	// Lets Gradle download the JDK required by the targeted Minecraft version
+	// instead of forcing every contributor to install it by hand.
+	id 'org.gradle.toolchains.foojay-resolver-convention' version '1.0.0'
+}
+
+rootProject.name = 'blockstostacks'
